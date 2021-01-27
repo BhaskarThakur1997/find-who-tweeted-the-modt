@@ -1,4 +1,4 @@
-# find-who-tweeted-the-modt
+# find-who-tweeted-the-most
 
 # Assignment: Find who tweeted the most
 
