@@ -7,8 +7,11 @@ Your program should find the user who has tweeted the most
 
 Note:
 . If multiple users are having # same number of tweets, then print all the users in # alphabetical order of user names.
+
 . Use #Python 3
+
 . Follow python coding style guide
+
 . Only <filename>.py file should be uploaded. Do not upload <filename>.ipnb file
 
 # Input format:
